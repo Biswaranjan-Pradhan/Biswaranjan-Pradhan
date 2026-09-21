@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswaranjan-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="biswaranjan-pradhan" /> </p>
 
-- 🔭 I’m currently working on **Innominds**
+- 🔭 I’m currently working on **Fiserv**
 
 - 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **any Web development project.**
 
-- 💬 Ask me about **JavaScript, Angular**
+- 💬 Ask me about **JavaScript, Angular, Reactjs, Redux**
 
 - 📫 How to reach me **bpradhan964@gmail.com**
 
