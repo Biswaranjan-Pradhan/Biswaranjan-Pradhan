@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any Web development project.**
 
-- 💬 Ask me about **JavaScript, Angular, Reactjs, Redux**
+- 💬 Ask me about **JavaScript, Angular, Reactjs, Redux, Nodejs, Postgresql**
 
 - 📫 How to reach me **bpradhan964@gmail.com**
 
